@@ -16,7 +16,7 @@
 //  padding-left: 15px;
 //}
 
-.col, .col-auto, .col-4, .col-12 {
+.col, .col-auto, .col-12 {
   position: relative;
   width: 100%;
   padding-right: 15px;
@@ -50,10 +50,10 @@
 //  max-width: 25%;
 //}
 
-.col-4 {
-  flex: 0 0 33.33333%;
-  max-width: 33.33333%;
-}
+//.col-4 {
+//  flex: 0 0 33.33333%;
+//  max-width: 33.33333%;
+//}
 
 //.col-5 {
 //  flex: 0 0 41.66667%;
